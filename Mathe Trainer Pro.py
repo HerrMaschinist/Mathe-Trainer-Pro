@@ -1,16 +1,3 @@
-"""
-Mathe Trainer Pro - Ultimativ verbesserte Version
-
-Features:
-- Klassenstufenspezifische Übungsaufgaben (Klasse 1 bis 4)
-- Adaptives Level- und XP-System mit Achievements und Tips
-- Detaillierte Statistiken & Fortschrittsanzeige
-- Logging aller Aktionen
-- Flexible Ressourcenpfad-Ermittlung (profiles.json wird im Datenordner im Benutzerverzeichnis abgelegt)
-- Robuste Eingabevalidierung und Fehlermeldungen
-- Erweiterte GUI mit Menüoptionen
-"""
-
 import sys
 import random
 import json
